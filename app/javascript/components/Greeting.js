@@ -1,6 +1,6 @@
-import React, { useEffect } from "react";
-import { fetchGreeting } from "../store/greeting/greetingReducer";
-import { useSelector, useDispatch } from "react-redux";
+import React, { useEffect } from 'react';
+import { useSelector, useDispatch } from 'react-redux';
+import { fetchGreeting } from '../store/greeting/greetingReducer';
 
 export default function Greeting() {
   const { greeting } = useSelector((state) => state.greeting);

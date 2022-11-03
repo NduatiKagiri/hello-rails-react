@@ -1,4 +1,4 @@
-const GREET = "/greeting/GREET";
+const GREET = '/greeting/GREET';
 
 export default function greetingReducer(state = [], action = {}) {
   switch (action.type) {
