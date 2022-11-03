@@ -1,48 +1,24 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# README
 
-# Hello Rails React
-> Hello Rails React: Hello World app using Rails and React together with Webpack.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## Built With
-- Rails
-- React
-- Webpack
+Things you may want to cover:
 
-## Getting Started
-To get a local copy up and running follow these simple example steps.
+* Ruby version
 
-### Prerequisites
-- A text editor eg Atom
-- Ruby
-- Rails
-- React
+* System dependencies
 
-### Setup
+* Configuration
 
- **Step 1: Clone this repo locally using git**
-- Create a folder in your local machine
-- Open your console in your folder and run this command: `git clone https://github.com/NduatiKagiri/hello-rails-react.git`
-- Alternatively, you can just download the complete zip file and extract the folder in your directory
+* Database creation
 
- **Step 2: Run in your project directory**
-- Run `bundle install` to install all the required gems
-- Run `npm install` to install all the required packages
-- Run `rails server` to create a server for the project
+* Database initialization
 
-## Authors
-:bust_in_silhouette: **NduatiKagiri**
+* How to run the test suite
 
-GitHub: https://github.com/NduatiKagiri
-Twitter: https://twitter.com/NduatiKagiri
-LinkedIn: https://linkedin.com/in/nduati-kagiri/
+* Services (job queues, cache servers, search engines, etc.)
 
-## :handshake: Contributing
-Contributions, issues, and feature requests are welcome!
+* Deployment instructions
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-Give a :star:️ if you like this project!
-
-##:memo: License
-This project is MIT licensed.
+* ...
